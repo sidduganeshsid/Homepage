@@ -1,4 +1,22 @@
-body{
+/* body{
     background-color: #151515;
-    /* background-color: black; */
+    /* background-color: black; 
+} */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+.cat{
+    text-align: center;
+}
+.cat > p {
+    background-color: #aa80f3;
+    color: #fff;
+    padding: 20px;
+    /* text-align: center; */
+}
+
+.cat > p > a {
+    color: white;
 }
